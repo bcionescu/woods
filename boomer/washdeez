@@ -1,0 +1,29 @@
+# Generated: https://ezascii.com/text-to-ascii-art?text=primeregen&font=Delta+Corps+Priest+1
+
+echo "
+▄   ▄ ▗▞▀▜▌ ▄▄▄ ▐▌      ▐▌▗▞▀▚▖▗▞▀▚▖▄▄▄▄▄ 
+█ ▄ █ ▝▚▄▟▌▀▄▄  ▐▌      ▐▌▐▛▀▀▘▐▛▀▀▘ ▄▄▄▀ 
+█▄█▄█      ▄▄▄▀ ▐▛▀▚▖▗▞▀▜▌▝▚▄▄▖▝▚▄▄▖█▄▄▄▄ 
+                ▐▌ ▐▌▝▚▄▟▌                
+"
+
+echo "[\033[0;31minit\033[0m] mogging sequence"
+sleep 1.2
+
+echo "[\033[0;31msummoning\033[0m] Luke Smith"
+sleep 0.9
+
+memes=(
+    "unbridled consumerism"
+    "number go up"
+    "money is god"
+)
+for meme in "${memes[@]}"; do
+    echo "[\033[0;31mcompiling\033[0m] $meme"
+    sleep 0.69
+done
+
+echo "[\033[0;31mstatus\033[0m] still sweaty"
+sleep 0.9
+echo "[\033[0;31mexec\033[0m] rant"
+sleep 10
