@@ -1,0 +1,39 @@
+# Generated: https://ezascii.com/text-to-ascii-art?text=pascal&font=DOS+Rebel
+
+echo "
+                                                ████ 
+                                               ░░███ 
+ ████████   ██████    █████   ██████   ██████   ░███ 
+░░███░░███ ░░░░░███  ███░░   ███░░███ ░░░░░███  ░███ 
+ ░███ ░███  ███████ ░░█████ ░███ ░░░   ███████  ░███ 
+ ░███ ░███ ███░░███  ░░░░███░███  ███ ███░░███  ░███ 
+ ░███████ ░░████████ ██████ ░░██████ ░░████████ █████
+ ░███░░░   ░░░░░░░░ ░░░░░░   ░░░░░░   ░░░░░░░░ ░░░░░ 
+ ░███                                                
+ █████                                               
+░░░░░                                                
+"
+
+echo "[\033[0;31minit\033[0m] mogging sequence"
+sleep 1.2
+
+echo "[\033[0;31mlocation\033[0m] the beach?"
+sleep 0.9
+
+echo "[\033[0;31msummoning\033[0m] Blaise Pascal"
+sleep 0.9
+
+memes=(
+    "left behind"
+    "no point in learning"
+    "tokenmaxxing"
+)
+for meme in "${memes[@]}"; do
+    echo "[\033[0;31mcompiling\033[0m] $meme"
+    sleep 0.69
+done
+
+echo "[\033[0;31mstatus\033[0m] tanning"
+sleep 0.9
+echo "[\033[0;31mexec\033[0m] rant"
+sleep 10

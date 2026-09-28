@@ -1,0 +1,41 @@
+# Generated: https://ezascii.com/
+
+echo "
+                                                                                          
+                                                   ▄▄▄▄                                   
+                                                   ▀▀██                                   
+  ██▄████   ▄████▄    ▄████▄    ▄████▄   ██▄███▄     ██       ▄█████▄   ▄█████▄   ▄████▄  
+  ██▀      ██▄▄▄▄██  ██▄▄▄▄██  ██▄▄▄▄██  ██▀  ▀██    ██       ▀ ▄▄▄██  ██▀    ▀  ██▄▄▄▄██ 
+  ██       ██▀▀▀▀▀▀  ██▀▀▀▀▀▀  ██▀▀▀▀▀▀  ██    ██    ██      ▄██▀▀▀██  ██        ██▀▀▀▀▀▀ 
+  ██       ▀██▄▄▄▄█  ▀██▄▄▄▄█  ▀██▄▄▄▄█  ███▄▄██▀    ██▄▄▄   ██▄▄▄███  ▀██▄▄▄▄█  ▀██▄▄▄▄█ 
+  ▀▀         ▀▀▀▀▀     ▀▀▀▀▀     ▀▀▀▀▀   ██ ▀▀▀       ▀▀▀▀    ▀▀▀▀ ▀▀    ▀▀▀▀▀     ▀▀▀▀▀  
+                                         ██                                               
+                                                                                          
+"
+
+echo "[\033[0;31minit\033[0m] mogging sequence"
+sleep 1.2
+
+echo "[\033[0;31mlocation\033[0m] Based Town"
+sleep 0.9
+
+echo "[\033[0;31msummoning\033[0m] your boss"
+sleep 0.9
+
+memes=(
+    "greed"
+    "lack of foresight"
+    "rug pulls"
+)
+for meme in "${memes[@]}"; do
+    echo "[\033[0;31mcompiling\033[0m] $meme"
+    sleep 0.69
+done
+
+echo "[\033[0;31mlinking\033[0m] time"
+sleep 1.2
+
+echo "[\033[0;31mstatus\033[0m] based"
+sleep 0.9
+echo "[\033[0;31mexec\033[0m] rant"
+sleep 10
